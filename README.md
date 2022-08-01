@@ -4,6 +4,12 @@
 
 A basic recipe website.
 
-# Iteration 0:
+Preview: [odin-recipes](https://4015-dev.github.io/odin-recipes/)
 
-init a git repo => git/gihub basics
+## Skills:
+
+0. git/github setup => git/gihub basics
+
+1. basic html
+
+2. github pages creation
